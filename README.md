@@ -60,6 +60,11 @@ If you find issues, have suggestions, or want to contribute to the development o
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
+![Ekran görüntüsü 2024-01-02 183407](https://github.com/FehmiTahsinDemirkan/Tour-Tracer/assets/94235535/42f0b187-21cf-4ca0-8991-7bcc1a7861a6)
+![er diyagramı](https://github.com/FehmiTahsinDemirkan/Tour-Tracer/assets/94235535/d5ef082d-3b78-4b7c-a9ff-bb3ea91b1f0d)
+![Ekran görüntüsü 2024-01-03 204140](https://github.com/FehmiTahsinDemirkan/Tour-Tracer/assets/94235535/28e9019d-87d4-452d-bc8b-725c6fb74ae5)
+![import export](https://github.com/FehmiTahsinDemirkan/Tour-Tracer/assets/94235535/f66bfa6b-e02b-47b2-997e-891ffdd54150)
+![store procedurs](https://github.com/FehmiTahsinDemirkan/Tour-Tracer/assets/94235535/01a020ae-baef-484d-9d74-72b457d2c238)
 
 
 Project Structure:
